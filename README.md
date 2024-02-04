@@ -66,3 +66,4 @@ pnpm test:e2e
 ```sh
 pnpm lint
 ```
+简易使用 vue3 搭建低代码平台。
