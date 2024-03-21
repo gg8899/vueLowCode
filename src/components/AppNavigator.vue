@@ -44,7 +44,6 @@ import { useEnvStore } from '@/stores/debug';
 const route = useRoute();
 const activeLink = computed(() => route.path);
 const envStore = useEnvStore()
-console.log(envStore.debug, 'envStore');
 
 const linkItem = [
     {
